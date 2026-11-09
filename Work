@@ -1,1 +1,8 @@
-https://github.com/dnyavi08/git-fundamentals-practice-dny.git
+```bash
+git clone https://github.com/dnyavi08/git-fundamentals-practice-dny.git
+cd git-fundamentals-practice-dnyavi8
+```
+```bash
+git remote -v
+git status
+```
